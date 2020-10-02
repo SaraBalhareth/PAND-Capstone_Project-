@@ -6,6 +6,6 @@ Your company currently has 85 grocery stores and is planning to open 10 new stor
 ### Task 2: Store Format for New Stores
 
 The grocery store chain has 10 new stores opening up at the beginning of the year. The company wants to determine which store format each of the new stores should have. However, we don’t have sales data for these new stores yet, so we’ll have to determine the format using each of the new store’s demographic data.
-#### Task 3: Forecasting
+### Task 3: Forecasting
 
 Fresh produce has a short life span, and due to increasing costs, the company wants to have an accurate monthly sales forecast.
